@@ -5,3 +5,6 @@
 [submodule "Bestie"]
 	path = Bestie
 	url = https://github.com/cran/Bestie
+[submodule "GWnorm"]
+	path = GWnorm
+	url = https://github.com/cran/GWnorm
